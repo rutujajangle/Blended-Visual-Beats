@@ -1,0 +1,84 @@
+Name,ID,Genres,Followers,Popularity,Playlist,Total Count,Count in Playlist 1,Count in Playlist 2
+John Mayer,0hEurMDQu99nJRq8pTxO14,"['neo mellow', 'singer-songwriter']",6079276,79,Playlist 1,4,4,0
+fun.,5nCi3BB41mBaMH9gfr6Su0,"['baroque pop', 'metropopolis', 'neo mellow']",3075565,68,Playlist 1,1,1,0
+The Killers,0C0XlULifJtAgn6ZNCW2eu,"['alternative rock', 'dance rock', 'modern rock', 'permanent wave', 'rock']",7553036,79,Playlist 1,1,1,0
+Snow Patrol,3rIZMv9rysU7JkLzEaC5Jp,"['irish rock', 'modern rock', 'neo mellow', 'permanent wave', 'pop rock']",3094812,71,Playlist 1,1,1,0
+Coldplay,4gzpq5DPGxSnKTe4SA8HAU,"['permanent wave', 'pop']",54734700,92,Both,5,3,2
+Mumford & Sons,3gd8FJtBJtkRxdfbTu19U2,"['modern folk rock', 'modern rock', 'neo mellow', 'stomp and holler', 'uk americana']",6458395,73,Playlist 1,1,1,0
+Eagles,0ECwFtbIWEVNwjlrfc6xoL,"['album rock', 'classic rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",11155447,77,Playlist 1,1,1,0
+James Blunt,7KMqksf0UMdyA0UCf4R3ux,['neo mellow'],3072152,73,Playlist 1,1,1,0
+Kodaline,4BxCuXFJrSWGi1KHcVqaU4,"['irish pop', 'modern rock', 'neo mellow']",3088119,69,Playlist 1,1,1,0
+Kings of Leon,2qk9voo8llSGYcZ6xrBzKx,"['modern rock', 'rock']",5508563,77,Playlist 1,2,2,0
+Queen,1dfeR4HaWDbWqFHLkxsg1d,"['classic rock', 'glam rock', 'rock']",51932608,86,Playlist 1,2,2,0
+Green Day,7oPftvlwr6VrsViSDV7fJY,"['modern rock', 'permanent wave', 'punk', 'rock']",15721560,83,Playlist 1,2,2,0
+Led Zeppelin,36QJpDe2go2KgaRleHCDTp,"['album rock', 'classic rock', 'hard rock', 'rock']",14848435,77,Playlist 1,1,1,0
+The Cure,7bu3H8JO7d0UbMoVzbo70s,"['new wave', 'permanent wave', 'rock', 'uk post-punk']",5912038,80,Both,2,1,1
+Oasis,2DaxqgrOhkeH0fpeiQq2f4,"['beatlesque', 'britpop', 'madchester', 'permanent wave', 'rock']",10887620,81,Playlist 1,2,2,0
+The Script,3AQRLZ9PuTAozP28Skbq8V,"['celtic rock', 'pop']",8292605,78,Playlist 1,1,1,0
+Billy Joel,6zFYqv1mOsgBRQbae3JJ9e,"['album rock', 'classic rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",6421307,79,Playlist 1,2,2,0
+Phoebe Bridgers,1r1uxoy19fzMxunt3ONAkG,"['indie pop', 'la indie', 'pov: indie']",2617557,80,Playlist 1,2,2,0
+Fleetwood Mac,08GQAI4eElDnROBrJRGE0X,"['album rock', 'classic rock', 'rock', 'soft rock', 'yacht rock']",12301922,83,Playlist 1,2,2,0
+OneRepublic,5Pwc4xIPtQLFEnJriah9YJ,"['piano rock', 'pop']",17627228,84,Both,4,1,3
+Linkin Park,6XyY86QOPPrYVGvF9ch6wz,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",27616056,93,Playlist 1,1,1,0
+The Goo Goo Dolls,2sil8z5kiy4r76CRTXxBCA,"['neo mellow', 'permanent wave', 'pop rock', 'post-grunge']",2993621,76,Playlist 1,1,1,0
+Gary Lightbody,3fCQnw6VSudXBTN5d2QP2z,['british singer-songwriter'],220026,54,Playlist 1,1,1,0
+Young the Giant,4j56EQDQu5XnL7R3E9iFJT,"['indietronica', 'modern alternative rock', 'modern rock', 'pov: indie', 'stomp and holler']",1627774,67,Playlist 1,1,1,0
+The Beatles,3WrFJ7ztbogyGnTHbHJFl2,"['british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",28780119,86,Playlist 1,3,3,0
+ABBA,0LcJLqbBmaGUft1e9Mm8HV,"['europop', 'swedish pop']",13162421,82,Playlist 1,1,1,0
+Maroon 5,04gDigrS5kc9YWfZHwBETP,['pop'],43205328,87,Both,3,1,2
+Panic! At The Disco,20JZFwl6HVl6yg8a4H3ZqK,['pop'],12415964,78,Both,4,3,1
+George Ezra,2ysnwxxNtSgbb9t1m2Ur4j,"['folk-pop', 'neo-singer-songwriter']",4248666,75,Playlist 1,1,1,0
+Eric Clapton,6PAt558ZEZl0DmdXlnjMgD,"['album rock', 'blues rock', 'classic rock', 'electric blues', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",6070728,73,Playlist 1,1,1,0
+U2,51Blml2LZPmy7TTiAg47vQ,"['irish rock', 'permanent wave', 'rock']",12699333,78,Playlist 1,1,1,0
+Tracy Chapman,7oPgCQqMMXEXrNau5vxYZP,"['folk', 'lilith', 'singer-songwriter', ""women's music""]",1855350,72,Playlist 1,1,1,0
+Ed Sheeran,6eUKZXaKkcviH0Ku9w2n3V,"['pop', 'singer-songwriter pop', 'uk pop']",117243313,89,Both,2,1,1
+Hozier,2FXC3k01G6Gw61bmprjgqS,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']",8057914,86,Playlist 1,1,1,0
+Taylor Swift,06HL4z0CvFAxyc27GXpf02,['pop'],126148293,100,Both,3,1,2
+Daft Punk,4tZwfgrHOc3mvqYlEYSvVi,"['electro', 'filter house', 'rock']",10263402,82,Playlist 2,1,0,1
+Zara Larsson,1Xylc3o4UrD53lo9CvFvVg,"['pop', 'scandipop', 'swedish electropop', 'swedish pop']",10594158,78,Playlist 2,1,0,1
+Harry Styles,6KImCVD70vtIoJWnq6nGn3,['pop'],33120435,85,Playlist 2,2,0,2
+Shawn Mendes,7n2wHs1TKAczGzO7Dd2rGr,"['canadian pop', 'pop', 'viral pop']",43686496,85,Playlist 2,3,0,3
+Lizzo,56oDRnqbIiwx4mymNEv7dS,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']",5713738,70,Playlist 2,1,0,1
+ZAYN,5ZsFI1h6hIdQRw2ti0hz81,"['pop', 'uk pop']",23415517,78,Playlist 2,1,0,1
+Niall Horan,1Hsdzj7Dlq2I7tHP7501T4,['pop'],10000631,77,Playlist 2,1,0,1
+Clean Bandit,6MDME20pz9RveH9rEXvrOM,"['pop', 'uk dance', 'uk funky']",5618814,77,Playlist 2,1,0,1
+Wiz Khalifa,137W8MRPWKqSmrBGDBFSop,"['hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",11410297,83,Playlist 2,1,0,1
+Nicky Youre,7qmpXeNz2ojlMl2EEfkeLs,['singer-songwriter pop'],278391,70,Playlist 2,1,0,1
+Selena Gomez,0C8ZW7ezQVs4URX5aX7Kqx,"['pop', 'post-teen pop']",51185037,83,Playlist 2,1,0,1
+Bipolar Sunshine,0CjWKoS55T7DOt0HJuwF1H,['gauze pop'],86145,61,Playlist 2,1,0,1
+Justin Bieber,1uNFoZAHBGtllmzznpCI3s,"['canadian pop', 'pop']",78768494,91,Playlist 2,2,0,2
+WALK THE MOON,6DIS6PRrLS3wbnZsf7vYic,"['dance rock', 'modern alternative rock', 'modern rock', 'neo mellow', 'pop rock']",2145391,71,Playlist 2,1,0,1
+Kygo,23fqKkggKUBHNkbKtXEls4,"['edm', 'pop', 'pop dance', 'tropical house']",8490791,82,Playlist 2,2,0,2
+Bastille,7EQ0qTo7fWT7DPxmxtSYEc,"['metropopolis', 'modern rock', 'pop']",5585188,76,Playlist 2,2,0,2
+Mark Ronson,3hv9jJF3adDNsBSIQDqcjp,['pop soul'],1142729,77,Playlist 2,1,0,1
+The Weeknd,1Xyo4u8uXC1ZmMpatF05PJ,"['canadian contemporary r&b', 'canadian pop', 'pop']",94569759,96,Playlist 2,1,0,1
+The Chainsmokers,69GGBxA162lTqCwzJG5jLp,['pop'],20624307,83,Playlist 2,2,0,2
+BTS,3Nrfpe0tUJi4K4DXYWgMUX,"['k-pop', 'k-pop boy group', 'pop']",76799489,87,Playlist 2,1,0,1
+Miley Cyrus,5YGY8feqx7naU7z4HrwZM6,['pop'],25056264,84,Playlist 2,1,0,1
+Backstreet Boys,5rSXSAkZ67PYJSvpUpkOr7,"['boy band', 'dance pop', 'pop']",5993383,78,Playlist 2,1,0,1
+Marshmello,64KEffDW9EtZ1y2vBYgq8T,"['brostep', 'edm', 'pop', 'progressive electro house']",33894470,85,Playlist 2,1,0,1
+Dua Lipa,6M2wZ9GZgrQXHCFfjv46we,"['dance pop', 'pop', 'uk pop']",45017193,88,Playlist 2,2,0,2
+Grey,4lDBihdpMlOalxy1jkUbPl,['pop edm'],90581,66,Playlist 2,1,0,1
+BANNERS,4qWnlmXWuGv2TtuxtIWlJX,['indie poptimism'],683953,65,Playlist 2,1,0,1
+David Guetta,1Cs0zKBU1kc0i8ypK3B9ai,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",26429487,90,Playlist 2,1,0,1
+Megan Thee Stallion,181bsRPaVXVlUKXrxwZfHK,"['houston rap', 'pop', 'rap', 'trap queen']",9935403,83,Playlist 2,1,0,1
+Avicii,1vCWHaC5f2uS3yhpwWbIA6,"['dance pop', 'edm', 'pop', 'pop dance']",23114245,81,Playlist 2,3,0,3
+Glass Animals,4yvcSjfu4PC0CYQyLy4wSq,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']",4332092,77,Playlist 2,1,0,1
+Halsey,26VFTg2z8YR0cCuwLzESi2,"['electropop', 'etherpop', 'indie poptimism', 'pop']",21766868,83,Playlist 2,1,0,1
+Martin Garrix,60d24wfXkVzDSfLS6hyCjZ,"['dutch edm', 'edm', 'pop', 'pop dance', 'progressive house']",15098560,77,Playlist 2,1,0,1
+Sia,5WUlDfRSoLAfcVSX1WnrxN,['pop'],28921359,86,Playlist 2,1,0,1
+Charlie Puth,6VuMaDnrHyPL1p4EHjYLi7,"['pop', 'viral pop']",23525014,81,Playlist 2,1,0,1
+Flo Rida,0jnsk9HBra6NMjO2oANoPY,"['dance pop', 'miami hip hop', 'pop', 'pop rap']",8710498,81,Playlist 2,1,0,1
+Julian Casablancas,1rAv1GhTQ2rmG94p9lU3rB,['indie rock'],573931,64,Playlist 2,1,0,1
+Camila Cabello,4nDoRrQiYLoBzwC5BhVJzF,"['dance pop', 'pop']",34072397,83,Playlist 2,1,0,1
+Maren Morris,6WY7D3jk8zTrHtmkqqo5GI,"['classic texas country', 'contemporary country']",834390,71,Playlist 2,1,0,1
+Anne-Marie,1zNqDE7qDGCsyzJwohVaoX,['pop'],12126352,79,Playlist 2,1,0,1
+DJ Snake,540vIaP2JwjQb9dm3aArA4,"['dance pop', 'edm', 'electronic trap', 'pop', 'pop dance']",8920191,79,Playlist 2,1,0,1
+The Kid LAROI,2tIP7SsRs7vjIcLrU85W8J,['australian hip hop'],5841821,85,Playlist 2,1,0,1
+Tainy,0GM7qgcRCORpGnfcN2tCiB,"['pop reggaeton', 'reggaeton', 'trap latino', 'urbano latino']",2473636,79,Playlist 2,1,0,1
+Ariana Grande,66CXWjxzNUsdJxJ2JdwvnR,['pop'],101098564,93,Playlist 2,1,0,1
+Bruno Mars,0du5cEVh5yTK9QJze8zA0C,"['dance pop', 'pop']",62300171,96,Playlist 2,2,0,2
+Lauv,5JZ7CnR6gTvEMKX4g70Amv,['pop'],6376088,77,Playlist 2,1,0,1
+Zedd,2qxJFvFYMEDqd7ui6kSAcq,"['complextro', 'edm', 'german techno', 'pop', 'pop dance']",5986151,76,Playlist 2,1,0,1
+Sheppard,6VxCmtR7S3yz4vnzsJqhSV,"['australian indie', 'australian pop', 'folk-pop']",313219,61,Playlist 2,1,0,1
+Lady Gaga,1HY2Jd0NmPuamShAr6KMms,"['art pop', 'dance pop', 'pop']",32798999,92,Playlist 2,1,0,1
